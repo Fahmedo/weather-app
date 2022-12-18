@@ -110,7 +110,7 @@ body {
   background-image: url(./assets/cold.jpg);
   background-size: contain;
   background-position: center;
-  transition: 0.4 ease-in;
+  transition: 0.4;
 }
 #app.warm {
   background-image: url(./assets/warm.jpg);
